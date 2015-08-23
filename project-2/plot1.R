@@ -1,5 +1,5 @@
 # Exploratory Data Analysis
-#project-2
+# project-2
 
 #setup directory and loading data 
 setwd("./coursera/Exploratory-Data-Analysis/project-2")
